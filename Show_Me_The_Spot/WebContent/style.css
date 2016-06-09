@@ -1,0 +1,50 @@
+body {
+  font-size: 14px;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  width: 720px;
+  background: #000000;
+  line-height: 1.45em;
+  margin: 50px auto 20px;
+}
+
+ul {
+  margin: 0 20px;
+  padding: 0;
+}
+.dark {
+  background: #222;
+}
+#example0,
+#example,
+#example-axes,
+#example1,
+#example2,
+#example3,
+#example-zscore,
+#example-progressive {
+  height: 200px;
+  margin: 12px 0;
+}
+p {
+  width: 560px;
+}
+
+h1 small {
+  font-weight: normal;
+  font-size: 0.5em;
+}
+h3 {
+  margin-top: 40px;
+}
+.float {
+  float: left;
+}
+.centered {
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+input {
+  font-size: 16px;
+}
